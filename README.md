@@ -11,6 +11,10 @@ My favorite search engine:
 
 ![scrapy](https://img.shields.io/badge/startpage-%23a6afff?style=for-the-badge)
 
+My favorite password manager:
+
+![keepass](https://img.shields.io/badge/keepass-%236cac4d?style=for-the-badge&logo=keepassxc&logoColor=white)
+
 My favorite browser: 
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
